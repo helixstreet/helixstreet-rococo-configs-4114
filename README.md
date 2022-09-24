@@ -1,3 +1,3 @@
 # 
 # helixstreet                   
-# Confis ParachainID 4114
+# Configs ParachainID 4114
